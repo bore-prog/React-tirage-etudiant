@@ -8,7 +8,7 @@ C'est un exercice pour travailler le framework javascript React, et notre logiqu
 
 ## Comment l'utiliser ?
 
-### Prerequis
+### Prérequis
 
 - Avoir Node.js
 
@@ -18,7 +18,7 @@ C'est un exercice pour travailler le framework javascript React, et notre logiqu
 2. `cd react-tirage-etudiant`
 3. `npm install` une première fois pour installer les dépendances
 
-### Launch
+### Démarrage
 
 - Démarrer l'application `npm start`
 - [http://localhost:3000](http://localhost:3000) ou sur le port de votre choix.
