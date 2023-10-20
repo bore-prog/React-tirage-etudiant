@@ -6,6 +6,7 @@ import { MissingPeopleProvider } from './componants/missingPeoples/missingPeople
 function App() {
   return (
     <div className="App">
+        <Header />
 
     </div>
   );
