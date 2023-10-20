@@ -20,5 +20,5 @@ C'est un exercice pour travailler le framework javascript React, et notre logiqu
 
 ### Démarrage
 
-- Démarrer l'application `npm start`
+- Démarrer l'application avec `npm start`
 - [http://localhost:3000](http://localhost:3000) ou sur le port de votre choix.
