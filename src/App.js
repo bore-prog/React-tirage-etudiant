@@ -6,8 +6,11 @@ import { MissingPeopleProvider } from './componants/missingPeoples/missingPeople
 function App() {
   return (
     <div className="App">
+      <MissingPeopleProvider>
         <Header />
+        {/* <Tirage /> */}
         <Footer />
+      </MissingPeopleProvider>
 
     </div>
   );
